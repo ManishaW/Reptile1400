@@ -23,6 +23,7 @@ public class player_movement : MonoBehaviour {
 			 if (hit) {
 				if (hitInfo.transform.gameObject.tag == "Interactable"){
 					Debug.Log ("DO SOMETHING!");
+					hitInfo.transform.GetComponent<Interactable>().characterLines(hitInfo.transform.name);
 				}
 			}
  			else{

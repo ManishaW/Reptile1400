@@ -13,8 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 104
-    y: 82
+    x: 69
+    y: 85
     width: 1233
     height: 621
   m_ShowMode: 4
@@ -364,8 +364,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 104
-    y: 387
+    x: 69
+    y: 390
     width: 930
     height: 294
   m_SearchFilter:
@@ -390,9 +390,9 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 262a0000
-    m_LastClickedID: 10790
-    m_ExpandedIDs: 00000000882900008e290000a8290000c429000000ca9a3bffffff7f
+    m_SelectedIDs: 58270000
+    m_LastClickedID: 10072
+    m_ExpandedIDs: 0000000040270000462700007a270000bc27000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -420,7 +420,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000882900008e290000
+    m_ExpandedIDs: 0000000040270000462700007a270000bc270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -497,8 +497,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1038
-    y: 131
+    x: 1003
+    y: 134
     width: 299
     height: 550
   m_ScrollPosition: {x: 0, y: 0}
@@ -530,31 +530,31 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 104
-    y: 131
+    x: 69
+    y: 134
     width: 234
     height: 235
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b62d0000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: dce7ffff2efaffff00000000
+    m_ExpandedIDs: e24cffffa0fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Canvas
+      m_OriginalName: Canvas
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: -45854
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_SearchString: 
   m_ExpandedScenes:
   - lucia_testscene_dlt
@@ -583,19 +583,19 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 342
-    y: 131
+    x: 307
+    y: 134
     width: 692
     height: 235
   m_SceneLighting: 1
-  lastFramingTime: 0
+  lastFramingTime: 3925.1698861512073
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.40338746, y: 0.20137879, z: -0.01953125}
+    m_Target: {x: 439.7532, y: 20.999811, z: 6.3273315}
     speed: 2
-    m_Value: {x: 0.40338746, y: 0.20137879, z: -0.01953125}
+    m_Value: {x: 439.7532, y: 20.999811, z: 6.3273315}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -622,9 +622,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 11.662225
+    m_Target: 564.0049
     speed: 2
-    m_Value: 11.662225
+    m_Value: 564.0049
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -658,8 +658,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 342
-    y: 131
+    x: 307
+    y: 134
     width: 692
     height: 235
   m_MaximizeOnPlay: 0
@@ -734,7 +734,7 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 104
-    y: 387
+    x: 69
+    y: 390
     width: 930
     height: 294

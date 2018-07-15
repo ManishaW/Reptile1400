@@ -13,4 +13,13 @@ public class Interactable : MonoBehaviour {
 	void Update () {
 		
 	}
+
+	public void characterLines(string hitName){
+
+		if(hitName.Equals("tweety")){
+			Debug.Log ("TWEETY TALKING");
+		}else if(hitName.Equals("stitch")){
+			Debug.Log ("I HIT STITCH");
+		}
+	}
 }
