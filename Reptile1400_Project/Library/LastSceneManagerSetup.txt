@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/lucia_testscene_dlt.unity
-  isLoaded: 1
-  isActive: 1
