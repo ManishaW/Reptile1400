@@ -55,6 +55,7 @@
      <Compile Include="Assets\Scripts\collecting_items.cs" />
      <Compile Include="Assets\Scripts\cutsceneTrigger.cs" />
      <Compile Include="Assets\Scripts\Interactable.cs" />
+     <Compile Include="Assets\Scripts\objectOnMouse.cs" />
      <Compile Include="Assets\Scripts\player_movement.cs" />
      <Compile Include="Assets\Scripts\switchScene.cs" />
  <Reference Include="UnityEngine.UI">

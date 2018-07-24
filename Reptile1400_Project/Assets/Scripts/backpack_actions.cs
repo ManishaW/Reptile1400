@@ -9,6 +9,7 @@ public class backpack_actions : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		Debug.Log ("hii");
 	}
 
 	// Update is called once per frame
@@ -19,12 +20,12 @@ public class backpack_actions : MonoBehaviour {
 	void OnMouseDown(){
 		if (backpack_open) {
 			Debug.Log ("bye");
-			GetComponent<Animation> ().Play ("backpack_slider_down");
+			GetComponent<Animation> ().Play ("down_backpack");
 			backpack_open = false;
 
 		} else {
 			Debug.Log ("hi");
-			GetComponent<Animation>().Play("backpack_slider_up");
+			GetComponent<Animation>().Play("up_backpack");
 			backpack_open = true;
 
 		}
