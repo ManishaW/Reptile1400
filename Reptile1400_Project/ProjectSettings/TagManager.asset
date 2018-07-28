@@ -5,7 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Interactable
+<<<<<<< HEAD
   - Collectible
+=======
+>>>>>>> ced00fe445390aeb77ac9ddb323aa59b50d88905
   layers:
   - Default
   - TransparentFX
